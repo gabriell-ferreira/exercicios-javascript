@@ -1,0 +1,1 @@
+# (29) Dentro da div com o id 'resultado', escreva os números de 0 ~ 10 (escolha uma das opções acima)
