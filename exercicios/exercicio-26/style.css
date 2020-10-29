@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+tbody {
+  display: flex;
+  flex-wrap: wrap;
+  width: 500px;
+  justify-content: center;
+  align-items: center;
+}
+
+tr {
+  width: 100px;
+  background-color: #cecece;
+  border: 1px solid black;
+}
+
